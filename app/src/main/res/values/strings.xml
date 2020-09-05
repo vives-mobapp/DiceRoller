@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">DiceRoller</string>
     <string name="hello_it_s_me">Hello it\'s me!</string>
+    <string name="roll_text">Rol de dobbelsteen</string>
 </resources>
